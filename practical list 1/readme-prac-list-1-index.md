@@ -20,7 +20,7 @@
 
 [Adding .ndf files to database]()
 
-[Adding .ldf files to database]()
+[Adding .ldf files to database](https://github.com/pseudoforce/MSSQL-server-DBA/tree/main/practical%20list%201/Adding-.ldf-files-to-database)
 
 [Insert data after adding files]()
 
