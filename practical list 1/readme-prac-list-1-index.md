@@ -1,4 +1,4 @@
-[SQL installation]()
+[SQL installation](https://github.com/pseudoforce/MSSQL-server-DBA/tree/main/practical%20list%201/SQL-installation)
 
 [Database creation]()
 
