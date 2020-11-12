@@ -1,6 +1,6 @@
 [SQL Basics](https://github.com/pseudoforce/MSSQL-server-DBA/blob/main/AdventureWorks/sql-basic/SQLBasics.sql)
 
-[Querying data with SELECT statement]()
+[Querying data with SELECT statement](https://github.com/pseudoforce/MSSQL-server-DBA/blob/main/AdventureWorks/sql-basic/Querying%20data%20with%20SELECT%20statement.sql)
 
 [Filtering results with WHERE clause]()
 
