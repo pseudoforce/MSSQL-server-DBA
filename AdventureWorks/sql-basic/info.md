@@ -1,3 +1,5 @@
+[SQL Basics](https://github.com/pseudoforce/MSSQL-server-DBA/blob/main/AdventureWorks/sql-basic/SQLBasics.sql)
+
 [Querying data with SELECT statement]()
 
 [Filtering results with WHERE clause]()
