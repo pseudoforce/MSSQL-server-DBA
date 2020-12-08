@@ -11,7 +11,7 @@ SELECT
 SELECT JobTitle FROM HumanResources.Employee; -- single row single table
 SELECT LoginID,JobTitle,BirthDate FROM HumanResources.Employee;-- multiple row single table
 SELECT * FROM HumanResources.Employee; -- multiple row single table, using wildcard
-SELECT LoginID,JobTitle,Rate,PayFrequency FROM HumanResources.Employee,HumanResources.EmployeePayHistory; -- multiple row multiple table
+SELECT LoginID,JobTitle,Rate,PayFrequency FROM HumanResources.Employee,HumanResources.EmployeePayHistory; -- multiple row multiple table.... this is without a join so results are absurd
 ----------------------------------------
 /*
 INSERT
